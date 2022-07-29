@@ -1,5 +1,5 @@
 {
-  "name": "Example Ionic React App",
+  "name": "Example Ionic React Tabbed App",
   "integrations": {
     "capacitor": {}
   },
